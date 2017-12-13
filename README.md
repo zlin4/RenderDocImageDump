@@ -2,7 +2,7 @@ RenderDocImageDump
 
 A modified RenderDoc version to dump per-draw images of a frame. Please refer to RenderDoc original website for general usage: https://renderdoc.org/. 
 
-First, compile the project with Visual Studio. Then run it and capture a frame log file (refer to its original file for more information). 
+First, build the project with Visual Studio. Then run it and capture a frame log file (refer to its original documents for more information). 
 To dump per-draw images:
 1. Open a renderdoc log file.
 2. Click event 1 (EID 1) in the event browser. 
